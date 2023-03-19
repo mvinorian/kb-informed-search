@@ -1,0 +1,17 @@
+Surabaya|Magetan|162
+Surabaya|Surabaya|0
+Surabaya|Ngawi|130
+Surabaya|Ponorogo|128
+Surabaya|Madiun|126
+Surabaya|Bojonegoro|60
+Surabaya|Nganjuk|70
+Surabaya|Jombang|36
+Surabaya|Lamongan|36
+Surabaya|Gresik|12
+Surabaya|Sidoarjo|22
+Surabaya|Probolinggo|70
+Surabaya|Situbondo|146
+Surabaya|Bangkalan|140
+Surabaya|Sampang|90
+Surabaya|Pamekasan|104
+Surabaya|Sumenep|150
